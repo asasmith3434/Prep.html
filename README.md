@@ -56,7 +56,6 @@
        when learning from yourself and not having someone guide you along the way. Independence shows growth because someone is 
 
        able to self teach and learn from personal experiences. </p4>
-     </body>
-     </html>
+    
 
        
