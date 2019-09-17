@@ -1,4 +1,4 @@
-<html>
+ <html>
 
 <body>    
 
@@ -26,7 +26,7 @@
 
           the people being surveyed are able to grow and strengthen their intelligence.
 
-   <h3>
+   <h3> Similarities:</h3>
 
   <p3> Similarly, both Dweck and Muller believe that the only true answer for higher intelligence is learning from 
 
