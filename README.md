@@ -1,5 +1,5 @@
  <html>
-body{ background-color: lightblue;}
+
 <body>    
 
   <h1> Carol Dweck</h1>  
