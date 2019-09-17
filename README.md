@@ -1,5 +1,18 @@
- <html>
 
+<html>
+ <head>
+
+<title> External CSS </title>
+
+
+
+ <link href="style.css" type="text/css"
+
+
+
+ rel="stylesheet" />
+
+</head>
 <body>    
 
   <h1> Carol Dweck</h1>  
